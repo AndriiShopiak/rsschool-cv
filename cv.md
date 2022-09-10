@@ -25,3 +25,17 @@ Except learn language I like to learn and practice my programing skills.
 # Lanquages
 - Ukrainian (Native speaker)
 - Englisch (A2)
+# My Code Example
+```
+const quotes = [];
+function randomItem() {
+let idex = Math.floor(Math.random()*quotes.length);
+document.querySelector("#text").innerHTML = `${quotes[idex]}`;
+};
+
+function addQuotes() {
+  let val =  document.querySelector("#string").value;
+  quotes.push(val);
+  document.querySelector("#string").value = '';  
+}
+```
