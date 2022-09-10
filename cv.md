@@ -15,3 +15,10 @@ Except learn language I like to learn and practice my programing skills.
 - React (Basic)
 - Figma
 - IDE : VS Code , Atom 
+# Education
+- **Lviv Politechnic College**
+
+    - Computer Sience
+
+- **IT Proger**
+    - Web dev (HTML , CSS , JS)
