@@ -22,3 +22,6 @@ Except learn language I like to learn and practice my programing skills.
 
 - **IT Proger**
     - Web dev (HTML , CSS , JS)
+# Lanquages
+- Ukrainian (Native speaker)
+- Englisch (A2)
