@@ -1,2 +1,2 @@
-# [rsschool-cv](https://github.com/AndriiShopiak/rsschool-cv/blob/rsschool-cv-html/index.html)
+# [rsschool-cv](https://AndriiShopiak.github.io/rsschool-cv/cv)
 https://AndriiShopiak.github.io/rsschool-cv/cv
