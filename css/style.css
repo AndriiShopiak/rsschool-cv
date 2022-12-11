@@ -356,10 +356,13 @@ h2::after {
 }
 .skills__languages__blocks {
     display: flex;
-    justify-content: space-between;
-    font-size: 17px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-size: 20px;
 }
 .skills__languages__block {
+    padding: 20px 0px 0px 0px;
 } 
 @media (max-width: 915px) {
     .skills__content__title {
@@ -400,7 +403,7 @@ h2::after {
 /* ---WORK--------------------------------------------- */
 .work {
     background: #00d4ff;
-    padding: 200px 25px 50px 25px;
+    padding: 100px 25px 50px 25px;
 }
 .work__title__header {
     color: #fff;
@@ -446,7 +449,7 @@ h2::after {
 }
 /* ---CONTACT----------------------------- */
 .contact {
-    padding: 200px 25px 30px 25px;
+    padding: 100px 25px 30px 25px;
 }
 .contact__container {
 }
