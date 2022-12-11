@@ -320,7 +320,7 @@ h2::after {
 .skills__icon {
     width: 50px;
 }
-.skills__code__example__title {
+.skills__code__example__title, .skills__languages__title {
     font-size: 25px;
     font-weight: 600;
     text-align: center;
@@ -349,6 +349,17 @@ h2::after {
     font-weight: 600;
 }
 .education__describe__prof {
+}
+.skills__languages {
+}
+.skills__languages__title {
+}
+.skills__languages__blocks {
+    display: flex;
+    justify-content: space-between;
+    font-size: 17px;
+}
+.skills__languages__block {
 } 
 @media (max-width: 915px) {
     .skills__content__title {
