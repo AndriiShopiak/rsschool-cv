@@ -329,6 +329,26 @@ h2::after {
 .skills__code__review {
     display: block;
     font-size: 20px;
+}
+.skills__education {
+}
+.skills__education__title {
+    text-align: center;
+    font-weight: 600;
+    font-size: 25px;
+    padding: 100px 0px 0px 0px;
+}
+.skills__education__block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 0px 0px 0px;
+    font-size: 20px;
+}
+.education__year {
+    font-weight: 600;
+}
+.education__describe__prof {
 } 
 @media (max-width: 915px) {
     .skills__content__title {
