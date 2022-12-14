@@ -135,10 +135,10 @@
                     btnForm.onclick = function() {<br>
                     idComment++;<br>
                     let form = document.querySelector("#comments-form");<br>
-                    if (form.name.value.length < 4) {<br>
+                    if (form.name.value.length <4) {<br>
                         document.querySelector("#error").innerHTML = "Довжина імені не менше 4 символів";<br>
                         return false;<br>
-                    }else if (form.comment.value.length < 10) {<br>
+                    }else if (form.comment.value.length <10) {<br>
                         document.querySelector("#error").innerHTML = "Довжина коментаря не менше 10 символів";<br>
                         return false;
                 </code>
