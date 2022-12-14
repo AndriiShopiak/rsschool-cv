@@ -1,1 +1,0 @@
-$(".header__nav a").mPageScroll2id();
